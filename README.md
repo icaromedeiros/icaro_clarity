@@ -1,2 +1,3 @@
-# icaro_clarity
-Blog
+# Ícaro Medeiros blog
+
+Blog based on Hugo Clarity theme.
