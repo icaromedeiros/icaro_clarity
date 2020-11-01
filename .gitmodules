@@ -1,0 +1,3 @@
+[submodule "icaromedeiros/themes/hugo-clarity"]
+	path = icaromedeiros/themes/hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity
